@@ -22,3 +22,9 @@ Windows:下载并安装 OpenJDK 171.2 验证安装运行以下命令，确保 Ja
 openjdk 17.0.1 2021-10-19
 OpenJDK Runtime Environment Temurin-17.0.1+12 (build 17.0.1+12)
 OpenJDK 64-Bit Server VM Temurin-17.0.1+12 (build 17.0.1+12, mixed mode)
+
+安装完jdk17后
+输入
+```bash
+javac StressTest.java
+java StressTest
